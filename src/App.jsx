@@ -13,4 +13,4 @@ function App() {
 
 //App >> Weather App >> Search Box & Weather Card
 
-export default App;
+export default App
