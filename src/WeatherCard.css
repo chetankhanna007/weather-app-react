@@ -2,3 +2,7 @@
     text-align: center;
 }
 
+.weatherCardContainer{
+    display: flex;
+    justify-content: center;
+}
